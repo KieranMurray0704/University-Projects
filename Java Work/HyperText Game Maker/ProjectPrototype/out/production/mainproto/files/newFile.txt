@@ -1,0 +1,38 @@
+3
+NodeNum: 0
+NodeTitle: NEW NODE
+NodeConns: 1,1
+NodeTexts: n/a
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: red
+NodePos: 400,500,327,427
+NodeConActs: N/A''
+
+NodeNum: 1
+NodeTitle: NEW NODE
+NodeConns: 0,0
+NodeTexts: New Connection
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: red
+NodePos: 667,767,321,421
+NodeConActs: No Action''
+
+NodeNum: 2
+NodeTitle: NEW NODE
+NodeConns: 
+NodeTexts: 
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: red
+NodePos: 458,558,-2,98
+NodeConActs: 
+
+END

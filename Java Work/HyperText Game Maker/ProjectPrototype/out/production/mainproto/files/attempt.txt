@@ -1,0 +1,86 @@
+7
+NodeNum: 0
+NodeTitle: TO BEHOLD
+NodeConns: 1,0''1,1''
+NodeTexts: Place the Note onto the table infront of you''n/a''
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: YOU HAVE BEEN SELECTED AS A CAPABLE CANDIDATE FOR THE FOLLOWING EXTRACTION MISSION''YOUR COMPLIANCE IS MANDATORY, FAILURE TO COMPLY WILL RESULT IN EXPLUSION FROM THE ORGANISATION AND FURTHER PUNISHMENT''''YOU ARE REQUIRED TO RETRIEVE THE DOCUMENTATION RETAINING TO THE ANOMALY CONTAINED WITHIN THIS FACILITY''YOU ARE REQUIRED TO INVESTIGATE THE FACILITY TO IDENTIFY WHY THE LOCKDOWN WAS INITIATED AND WHY CONTACT WAS SEVERED WITH THE TEAM PRESENT AT THE FACILITY''
+NodeCol: orange
+NodePos: 40,140,353,453
+NodeConActs: No Action''N/A''
+
+NodeNum: 1
+NodeTitle: STERILE ROOM
+NodeConns: 0,1''0,0''2,0''3,0''3,1''
+NodeTexts: n/a''Pick the note back up from the table''New Connection''New Connection''n/a''
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: orange
+NodePos: 304,404,356,456
+NodeConActs: N/A''No Action''No Action''No Action''N/A''
+
+NodeNum: 2
+NodeTitle: FACILITY ENTRANCE HALLWAY
+NodeConns: 1,1''4,0''
+NodeTexts: n/a''New Connection''
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: orange
+NodePos: 505,605,344,444
+NodeConActs: N/A''No Action''
+
+NodeNum: 3
+NodeTitle: DOOR WARNINGS
+NodeConns: 1,1''1,0''
+NodeTexts: n/a''New Connection''
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: orange
+NodePos: 253,353,158,258
+NodeConActs: N/A''No Action''
+
+NodeNum: 4
+NodeTitle: FACILITY LOBBY
+NodeConns: 2,1''5,0''5,1''
+NodeTexts: n/a''New Connection''n/a''
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: orange
+NodePos: 775,875,357,457
+NodeConActs: N/A''No Action''N/A''
+
+NodeNum: 5
+NodeTitle: ENTRANCE COMPUTER
+NodeConns: 4,1''4,0''6,0''
+NodeTexts: n/a''New Connection''New Connection''
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: orange
+NodePos: 1022,1122,205,305
+NodeConActs: N/A''No Action''No Action''
+
+NodeNum: 6
+NodeTitle: DOOR ACCESS LOG
+NodeConns: 5,1
+NodeTexts: n/a
+NodeActions: 
+NodeActionBool: 
+NodeActionTex: 
+NodeCont: CONTENT''
+NodeCol: orange
+NodePos: 842,942,166,266
+NodeConActs: N/A''
+
+END
